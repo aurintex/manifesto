@@ -29,8 +29,18 @@ Only when *you* assign it a task (e.g., "Help me track my nutrition") does it ac
 ### 3. Principle: The 'Open Core' Trust Model
 "Trust me" is not a business model. The proof must be public.
 
-* **Open Source:** The entire core that guarantees privacy—the OS, the data-pipeline—will be open-source and verifiable.
-* **Proprietär (Our 'Secret Sauce'):** Our business model is selling the optimized low-power hardware and the highly efficient on-device AI models that make this privacy possible.
+* **Open Source:** The entire core that guarantees privacy --> the OS, the data-pipeline, will be open-source and verifiable.
+* **Proprietary (Our 'Secret Sauce'):** Our business model will be as transparent as our code. **Our core commitment is that we will *never* sell your data.** Our revenue will come from selling the valuable hardware and software we build—not from monetizing your private life. The exact mix of what we sell (e.g., the hardware itself, proprietary AI models, or optional cloud services) is still being explored, but it will *always* align with this privacy-first mission.
+
+---
+
+## The Concept (Form Factor)
+
+This is not just an essay. We are designing a discreet, low-power wearable device. The goal is for it to complement you, not define you.
+
+<img src="./assets/concept-1.png" width="400" alt="Concept 1">
+<img src="./assets/concept-2.png" width="400" alt="Concept 2">
+<img src="./assets/concept-3.png" width="400" alt="Concept 3">
 
 ---
 
